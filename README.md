@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+Fixed typo in README# Introduction to Git and GitHub
 
 ## Simple Interest Calculator
 
